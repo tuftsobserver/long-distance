@@ -125,7 +125,7 @@ img {
 }
 
 #intro-title {
-	background-image:url("bus.jpg");
+	background-image:url("../img/bus.jpg");
 	background-size: 100vw;
 	background-repeat: no-repeat;
 	color:white;
@@ -138,7 +138,7 @@ img {
 }
 
 #communication-title {
-	background-image:url("girlonphone.jpg");
+	background-image:url("../img/girlonphone.jpg");
 	background-size: 100vw;
 	background-repeat: no-repeat;
 	color:white;
@@ -151,7 +151,7 @@ img {
 }
 
 #distance-title {
-	background-image:url("tent.jpg");
+	background-image:url("../img/tent.jpg");
 	background-size: 100vw;
 	background-repeat: no-repeat;
 	color:white;
@@ -164,7 +164,7 @@ img {
 }
 
 #endpage {
-	background-image:url("couple.jpg");
+	background-image:url("../img/couple.jpg");
 	background-size: 100vw;
 	background-repeat: no-repeat;
 	color:white;
@@ -352,7 +352,7 @@ canvas {
 	}
 
 	#intro-title {
-		background-image:url("bus.jpg") no-repeat center center;
+		background-image:url("../img/bus.jpg") no-repeat center center;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
@@ -362,7 +362,7 @@ canvas {
 	}
 
 	#communication-title {
-		background-image:url("girlonphone.jpg") no-repeat center center;
+		background-image:url("../img/girlonphone.jpg") no-repeat center center;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
@@ -373,7 +373,7 @@ canvas {
 	}
 
 	#distance-title {
-		background-image:url("tent.jpg") no-repeat center center;
+		background-image:url("../img/tent.jpg") no-repeat center center;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
@@ -383,7 +383,7 @@ canvas {
 	}
 
 	#endpage {
-		background-image:url("couple.jpg") no-repeat center center;
+		background-image:url("../img/couple.jpg") no-repeat center center;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
